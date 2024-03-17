@@ -1,0 +1,36 @@
+{
+  "name": "onedionys-gdpr-compliance-toolkit",
+  "version": "1.0.0",
+  "description": "One Dionys (GDPR Compliance Toolkit) - A set of tools and components to help web applications comply with the General Data Protection Regulation (GDPR), including user consent management.",
+  "main": "src/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/onedionys/onedionys-gdpr-compliance-toolkit.git"
+  },
+  "keywords": [
+    "onedionys",
+    "tea",
+    "package-manager",
+    "gdpr-compliance-toolkit"
+  ],
+  "author": "One Dionys",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onedionys/onedionys-gdpr-compliance-toolkit/issues"
+  },
+  "homepage": "https://github.com/onedionys/onedionys-gdpr-compliance-toolkit#readme",
+  "devDependencies": {
+    "chai": "^5.1.0",
+    "mocha": "^10.3.0"
+  },
+  "dependencies": {
+    "jquery": "^3.7.1",
+    "lodash": "^4.17.21"
+  }
+}

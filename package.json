@@ -1,6 +1,6 @@
 {
   "name": "onedionys-gdpr-compliance-toolkit",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "One Dionys (GDPR Compliance Toolkit) - A set of tools and components to help web applications comply with the General Data Protection Regulation (GDPR), including user consent management.",
   "main": "src/index.js",
   "directories": {
